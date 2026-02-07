@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "topics": ["array", "hashmap"],
+    "duration": 15,
+    "difficulty": 3
+  },
+  {
+    "id": 2,
+    "title": "Valid Parentheses",
+    "topics": ["stack"],
+    "duration": 20,
+    "difficulty": 4
+  },
+  {
+    "id": 3,
+    "title": "Binary Tree Inorder Traversal",
+    "topics": ["tree", "dfs"],
+    "duration": 25,
+    "difficulty": 5
+  },
+  {
+    "id": 4,
+    "title": "Longest Substring Without Repeating Characters",
+    "topics": ["sliding_window", "hashmap"],
+    "duration": 30,
+    "difficulty": 6
+  },
+  {
+    "id": 5,
+    "title": "Merge Intervals",
+    "topics": ["array", "sorting"],
+    "duration": 25,
+    "difficulty": 5
+  },
+  {
+  "id": 6,
+  "title": "Climbing Stairs",
+  "topics": ["dp"],
+  "duration": 15,
+  "difficulty": 3
+  }
+]
