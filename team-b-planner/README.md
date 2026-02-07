@@ -13,15 +13,6 @@ and unit-tested core logic.
 
 ## 🏗️ Architecture
 
-   Streamlit (Frontend)
-           ↓ HTTP
-   FastAPI (Backend)
-           ↓
-  Core Logic (Scheduler, Difficulty, Loader)
-           ↓
-    JSON Data Store
-
-
 - Frontend: Streamlit UI
 - Backend: FastAPI REST APIs
 - Core Logic: Heap-based scheduler and difficulty adapter
