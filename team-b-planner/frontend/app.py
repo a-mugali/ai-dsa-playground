@@ -70,8 +70,8 @@ if "plan" in st.session_state:
         st.markdown(f"""
             **{i}. {p['title']}**
 
-            • Topic: {', '.join(p['topics'])}  
-            • Time: {p['duration']} min  
+            • Topic: {', '.join(p['topics'])}
+            • Time: {p['duration']} min
             • Difficulty: {p['difficulty']}
             """)
 

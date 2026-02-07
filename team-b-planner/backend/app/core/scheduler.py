@@ -1,3 +1,11 @@
+"""
+Practice plan scheduler module.
+
+Implements a heap-based greedy algorithm to select
+problems based on difficulty, topic balance, and
+time constraints.
+"""
+
 import heapq
 from typing import Dict, List
 

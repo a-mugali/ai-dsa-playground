@@ -40,5 +40,33 @@
   "topics": ["dp"],
   "duration": 15,
   "difficulty": 3
+  },
+  {
+  "id": 7,
+  "title": "Climbing Stairs",
+  "topics": ["dp"],
+  "duration": 15,
+  "difficulty": 3
+  },
+  {
+  "id": 8,
+  "title": "Binary Search",
+  "topics": ["binary_search"],
+  "duration": 20,
+  "difficulty": 4
+  },
+  {
+  "id": 9,
+  "title": "Top K Elements",
+  "topics": ["heap"],
+  "duration": 25,
+  "difficulty": 6
+  },
+  {
+  "id": 10,
+  "title": "Graph Traversal",
+  "topics": ["graph", "bfs"],
+  "duration": 30,
+  "difficulty": 5
   }
 ]

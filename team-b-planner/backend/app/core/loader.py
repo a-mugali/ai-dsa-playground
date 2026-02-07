@@ -1,3 +1,10 @@
+"""
+Problem data loader module.
+
+Loads problem metadata from JSON files and returns
+structured Python objects for use in scheduling.
+"""
+
 import json
 from typing import Dict, List
 

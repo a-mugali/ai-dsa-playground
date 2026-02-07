@@ -1,3 +1,10 @@
+"""
+Difficulty adaptation module.
+
+Updates problem difficulty based on user feedback
+using simple rule-based logic.
+"""
+
 def update_difficulty(old: int, feedback: str) -> int:
     """
     Update difficulty score based on user feedback.
